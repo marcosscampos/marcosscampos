@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá! Seja bem vindo ao meu perfil! Sinta-se a vontade, pegue um café e aproveite!
+#### _Hello! Welcome to my profile! Feel free, take a coffee and enjoy!_
+
+<div>
+  <a href="https://github.com/marcosscampos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosscampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscampos&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true">
+  </a>
+</div>
 
 <!--
 **marcosscampos/marcosscampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
