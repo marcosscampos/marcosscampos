@@ -2,7 +2,7 @@
 #### _Hello! Welcome to my profile! Feel free, take a coffee and enjoy!_
 
 <div>
-  <a href="https://github.com/marcosscampos">
+  <a href="https://github.com/marcosscampos" style="display: flex; flex-direction: row; justify-content: space-between">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosscampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscampos&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true">
   </a>
