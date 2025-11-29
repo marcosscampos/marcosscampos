@@ -29,12 +29,15 @@
 </p>
 
 ## ⭐ GitHub Stats
+
 ![marcosscampos's Stats](https://github-readme-stats.vercel.app/api?username=marcosscampos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+
 ![marcosscampos's Streak](https://github-readme-streak-stats.herokuapp.com/?user=marcosscampos&theme=tokyonight&hide_border=true)
+
 ![marcosscampos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcosscampos&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ## :mag: Follow me!  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/glaucialemos/](https://www.linkedin.com/in/marcos-vinicius-839baa102/))
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-vinicius-839baa102)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mirlock)
 <!--
 **marcosscampos/marcosscampos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
